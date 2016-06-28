@@ -36,4 +36,13 @@ public class utiliti {
             return false;
         }
     }
+    public String completaURL(String URL) {
+        if(URL.indexOf("http://")>-1){
+            return URL;
+        }else{
+            return "http://"+URL;
+        }
+
+    }
+
 }

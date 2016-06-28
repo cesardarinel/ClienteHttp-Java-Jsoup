@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="com.cesardarinel.pw.practica1_main" target="1.5" />
-      <module name="com.cesardarinel.pw.practica1_test" target="1.5" />
+      <module name="com.cesardarinel.pw.practica1_main" target="1.8" />
+      <module name="com.cesardarinel.pw.practica1_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
